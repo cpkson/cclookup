@@ -1,0 +1,11 @@
+{
+    "data":{
+        "iata_data_path":"\\\\NDATA12\\parkic$\\My Documents\\cclookup\\Data\\Iata\\",
+        "iso_data_path":"\\\\NDATA12\\parkic$\\My Documents\\cclookup\\Data\\Iso\\",
+        "output_data_path":"\\\\NDATA12\\parkic$\\My Documents\\cclookup\\Data\\output\\"
+    },
+    "files":{
+        "xml_output_file":"country_codes.xml",
+        "dict_output_file":"country_codes.py"
+    }
+}
